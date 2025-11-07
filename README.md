@@ -1,5 +1,17 @@
-# 💫 About Me:
-# 👋 Hi, I'm Ahmed Moataz<br>I'm a **Backend Developer** specializing in **.NET Core** and **Python**, passionate about building scalable web applications and APIs.  <br>I love turning complex requirements into clean, maintainable systems that deliver real-world impact.<br><br>🔭 I’m currently working on<br>Developing large-scale backend systems with .NET Core and Python, integrating real-time communication, reporting, and secure authentication for enterprise and governmental use.<br>👯 I’m looking to collaborate on<br>Innovative web applications or backend solutions that focus on performance and real-world impact.<br>🌱 I’m currently learning<br>Advanced System architecture and Containerization to build more scalable and reliable applications and enhancing my skills in .NET and Python<br>💬 Ask me about<br>Building web applications from scratch and turning complex requirements into functional and maintainable systems.<br>📫 Reach me: ahmedmoatazbusiness@gmail.com<br>⚡ Fun fact<br>Before becoming a software developer, I was a professional esports gamer — which taught me focus, strategy, and adaptability that I now apply to coding and problem-solving.<br>
+# 👋 Hi, I'm Ahmed Moataz
+I'm a **Backend Developer** specializing in **.NET Core** and **Python**, passionate about building scalable web applications and APIs.  <br>I love turning complex requirements into clean, maintainable systems that deliver real-world impact.
+
+🔭 **I’m currently working on:** <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;Developing large-scale backend systems with .NET Core and Python, integrating real-time communication, reporting, and secure &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;authentication for enterprise and governmental use.<br><br>
+👯 **I’m looking to collaborate on:**<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;Innovative web applications or backend solutions that focus on performance and real-world impact.<br><br>
+🌱 **I’m currently learning:**<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;Advanced System architecture and Containerization to build more scalable and reliable applications and enhancing my skills in .NET and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python.<br><br>
+💬 **Ask me about:**<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;Building web applications from scratch and turning complex requirements into functional and maintainable systems.<br><br>
+📫 **Reach me:** ahmedmoatazbusiness@gmail.com<br><br>
+⚡ **Fun fact:**<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;Before becoming a software developer, I was a professional esports gamer — which taught me focus, strategy, and adaptability &nbsp;&nbsp;that I &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;now apply to coding and problem-solving.<br><br>
 
 
 ## 🌐 Socials:
